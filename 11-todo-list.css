@@ -2,6 +2,10 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 
+p{
+  font-weight: 900;
+}
+
 .todo-grid, .todo-input-grid{
   display: grid;
   grid-template-columns: 200px 150px 100px;
